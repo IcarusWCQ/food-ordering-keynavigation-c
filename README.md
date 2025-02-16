@@ -37,7 +37,6 @@ food_ordering.exe
 ## 🎮 Controls
 🎯 **Arrow Up/Down** – Move between menu options  
 🎯 **Enter** – Select an option  
-🎯 **Esc** – Exit (if implemented)  
 
 ---
 
