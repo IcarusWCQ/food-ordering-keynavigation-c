@@ -45,7 +45,30 @@ food_ordering.exe
 ## 📜 Example Menu Output:
 ```
 Main Menu:
----------------------------------
+
+ _________________________________________________________________________________________________________________
+/                                                                                                                 \
+|                         Welcome To Warung Le Familia!!                                                          |
+|       _..----.._                                                                               |\ /| /|_/|      |
+|     .'     o    '.      We are thrilled to welcome you to our gastronomic haven,              |\||-|\||-/|/|    |
+|    /   o       o  \     where passion and flavor collide in perfecr harmony.                   \\|\|//||///     |
+|   |o        o     o|    As you cross our threshold, pepare to embark on a culinary             |\/\||//||||     |
+|   /'-.._o     __.-'\    journey that will tantalize your taste bud and awaken your sense!      |||\\|/\\ ||     |
+|   \      `````     /                                                                           | './\_/.' |     |
+|   |``--........--'`|    Please Select Any of Them -                                            |          |     |
+|    \              /                                                                            |          |     |
+|     `'----------'`      1. New Order.                                                          |          |     |
+|                         2. Bill Payment.                                                        '.______.'      |
+|                         3. Exit.                                                                                |
+\_____________________________________________________________________________________________ ___________________/
+                                                                                              \\
+                                                                                               \\    _(__)_        V
+                                                                                                \\  '-e e -'__,--.__)
+                                                                                                 \   (o_o)        )
+                                                                                                       \. /___.  |
+                                                                                                        ||| _)/_)/
+                                                                                                        //_(/_(/_(
+															   																							
 -> 1. I would like to make a new order please.
    2. I would like to have the bill please.
    3. I am ready to leave.
