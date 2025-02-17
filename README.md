@@ -114,5 +114,30 @@ food_ordering.exe
 		                    `==========='    `==========='
 ```
 
+## 📜 Example Bill/Receipt Output:
+```												  
+	  __________________________________________________________________
+	/ \                                                                 \.
+	|   |                                                                |.
+	\_ |                      WARUNG LE FAMILIA                         |.
+	|                                                                |.
+	| Customer Name: Icarus Wong                                     |.
+	|                                                                |.
+	|                                          Total: RM50           |.
+	|                                          Token: 1              |.
+	|                                                                |.
+	|                         THANK YOU                              |.
+	|   _____________________________________________________________|___
+	|  /                                                                /.
+	\_/________________________________________________________________/.
+
+			==Use the token for the bill payment==
+			<Enter (1) to go to bill payment> 
+			<Enter (2) to give another order> 
+			<Enter (3) to go to main menu> 
+                                                                        
+			Enter Choice: 
+```
+
 ## 📌 License
 This project is open-source. Feel free to use and modify it as needed.
