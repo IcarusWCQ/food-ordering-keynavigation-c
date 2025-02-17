@@ -2,6 +2,7 @@
 
 ## 📌 Description
 This is a **terminal-based food ordering system** written in C, featuring an interactive **menu controlled via arrow keys** instead of manual number inputs. The system allows users to:
+
 ✅ Navigate the main menu  
 ✅ Select food items  
 ✅ Review orders  
