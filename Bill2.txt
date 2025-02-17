@@ -1,0 +1,10 @@
+                                                                        |   _____________________________________________________________|___
+                                                                        |  /                                                                /.
+                                                                        \_/________________________________________________________________/.
+
+                                                                        ==Use the token for the bill payment==
+                                                                        <Enter (1) to go to bill payment> 
+                                                                        <Enter (2) to give another order> 
+                                                                        <Enter (3) to go to main menu> 
+                                                                        
+                                                                        Enter Choice: 
