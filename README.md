@@ -1,5 +1,7 @@
 # 🍔 Food Ordering System with Key Navigation in C
 
+---
+
 ## 📌 **⚠️ This project was developed as part of a University Assignment. ⚠️**
 This project was created as part of a university coursework assignment, focusing on **interactive console-based application development** using C. The goal was to implement **user-friendly navigation, structured billing, and payment processing** while enhancing the interface with **ASCII art** for a more engaging experience.
 
