@@ -24,7 +24,7 @@ This is a **terminal-based food ordering system** written in C, featuring an int
 ## 🚀 How to Run
 ### 🔹 Compile the Program:
 ```sh
-gcc 1.c -o food_ordering.exe
+gcc foodordering.c -o food_ordering.exe
 ```
 ### 🔹 Run the Executable:
 ```sh
