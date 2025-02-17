@@ -42,10 +42,8 @@ food_ordering.exe
 
 ---
 
-## 📜 Example Menu Output:
+## 📜 Example Main Page Output:
 ```
-Main Menu:
-
  _________________________________________________________________________________________________________________
 /                                                                                                                 \
 |                         Welcome To Warung Le Familia!!                                                          |
@@ -68,12 +66,53 @@ Main Menu:
                                                                                                        \. /___.  |
                                                                                                         ||| _)/_)/
                                                                                                         //_(/_(/_(
-															   																							
--> 1. I would like to make a new order please.
-   2. I would like to have the bill please.
-   3. I am ready to leave.
+															   																							 
+                           -> 1. I would like to make a new order please.
+                           2. I would like to have the bill please.
+                           3. I am ready to leave.
 ```
 
+## 📜 Example Menu Order Output:
+```												  
+                       ,---.           ,---.
+                      / /"`.\.--"""--./,'"\ \
+                      \ \    _       _    / /
+                        `./  / __   __ \  \,'
+                         /    /_O)_(_O\    \
+                         |  .-'  ___  `-.  |
+                     .--|       \_/       |--.
+                    ,'    \   \   |   /   /    `.
+                   /       `.  `--^--'  ,'       \
+                .-"""""-.    `--.___.--'     .-"""""-.
+.--------------/         \------------------/         \--------------.
+| .------------\         /----------------- \         /------------. |
+| |             `-`--`--'                    `--'--'-'             | |	
+| |   DISHES                                                (RM)   | |
+| |   1. Burger                                              5.0   | |
+| |   2. Hotdog                                              4.0   | |
+| |   3. Pizza                                              15.0   | |
+| |                                                                | |
+| |   DRINKS                                                       | |
+| |   1. Strawbery Fanta                                     2.0   | |
+| |   --> 2. Coca Cola                                       2.0   | |
+| |   3. A&W                                                 3.0   | |
+| |   4. Mineral Water                                       1.5   | |
+| |                                                                | |
+| |   DESSERTS                                                     | |
+| |   1. Canestrelli(Italian Egg York Cookies)              12.0   | |
+| |   2. Lemon Ricotta                                      17.5   | |
+| |   3. Chocolate Souffles                                  6.5   | |
+| |   4. Chocolate Puts De Creme                            14.0   | |
+| |________________________________________________________________| |
+|____________________________________________________________________|
+                      )__________|__|__________(
+                     |            ||            |
+                     |____________||____________|
+                      ),-----.(      ),-----.(
+                     ,'   ==.   \    /  .==    `.
+                    /            )  (            \
+                    `==========='    `==========='
+```
 
 ## 📌 License
 This project is open-source. Feel free to use and modify it as needed.
