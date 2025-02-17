@@ -120,23 +120,23 @@ food_ordering.exe
 	/ \                                                                 \.
 	|   |                                                                |.
 	\_ |                      WARUNG LE FAMILIA                         |.
-	|                                                                |.
-	| Customer Name: Icarus Wong                                     |.
-	|                                                                |.
-	|                                          Total: RM50           |.
-	|                                          Token: 1              |.
-	|                                                                |.
-	|                         THANK YOU                              |.
-	|   _____________________________________________________________|___
-	|  /                                                                /.
-	\_/________________________________________________________________/.
+	   |                                                                |.
+	   | Customer Name: Icarus Wong                                     |.
+	   |                                                                |.
+	   |                                          Total: RM50           |.
+	   |                                          Token: 1              |.
+	   |                                                                |.
+	   |                         THANK YOU                              |.
+	   |   _____________________________________________________________|___
+	   |  /                                                                /.
+	   \_/________________________________________________________________/.
 
-			==Use the token for the bill payment==
-			<Enter (1) to go to bill payment> 
-			<Enter (2) to give another order> 
-			<Enter (3) to go to main menu> 
+	  		   ==Use the token for the bill payment==
+			   <Enter (1) to go to bill payment> 
+			   <Enter (2) to give another order> 
+			   <Enter (3) to go to main menu> 
                                                                         
-			Enter Choice: 
+			   Enter Choice: 
 ```
 
 ## 📌 License
