@@ -25,6 +25,40 @@ This is a **terminal-based food ordering system** written in C, featuring an int
 
 ---
 
+## 🛠️ Technical Details
+This project implements several important **C programming techniques**, including:
+
+### 🔹 **Keyboard Navigation with `getch()`**
+- Uses **`getch()`** from **`conio.h`** to detect keypresses without waiting for Enter.
+- Arrow key inputs are handled using ASCII codes:
+  - **Up Arrow (`72`)** moves selection up.
+  - **Down Arrow (`80`)** moves selection down.
+  - **Enter (`13`)** confirms selection.
+
+### 🔹 **Beep Sound Feedback (`Beep()`)**
+- Uses **`Beep(frequency, duration)`** from **`windows.h`** to produce feedback sounds.
+- Example: `Beep(1000, 100);` plays a short beep when a key is pressed.
+
+### 🔹 **Dynamic Menu System**
+- Implements **dynamic selection menus** using arrays and loop structures.
+- Uses **`system("cls")`** to refresh the console for smooth transitions.
+
+### 🔹 **File Handling for ASCII Art UI**
+- **Uses `fopen()` and `fgetc()`** to read ASCII art from text files.
+- Enhances UI presentation by displaying banners and formatted text.
+
+### 🔹 **Billing & Payment System**
+- Uses **arrays to store item prices and quantities**.
+- Implements **basic arithmetic calculations** for total cost and change.
+- **Breaks down currency denominations** (RM100, RM50, RM20, etc.) using **modulus (`%`)** and **floor division (`/`)**.
+
+### 🔹 **Loop & Conditional Handling**
+- Uses **infinite loops (`while(1)`)** for continuous user interaction.
+- **`goto` statements** are used for simple menu flow (though a function-based approach could improve structure).
+- Uses **switch-case statements** to handle menu selection efficiently.
+
+---
+
 ## 🚀 How to Run
 ### 🔹 Compile the Program:
 ```sh
