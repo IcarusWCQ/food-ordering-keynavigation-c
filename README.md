@@ -19,10 +19,6 @@ This is a **terminal-based food ordering system** written in C, featuring an int
 ---
 
 ## 🚀 How to Run
-### 🔹 Clone the Repository:
-```sh
-git clone https://github.com/yourusername/food-ordering-keynavigation-c.git
-```
 ### 🔹 Compile the Program:
 ```sh
 gcc 1.c -o food_ordering.exe
