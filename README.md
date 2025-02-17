@@ -1,5 +1,3 @@
-### 📌 **⚠️ This project was developed as part of a University Assignment. ⚠️**
-
 # 🍔 Food Ordering System with Key Navigation in C
 
 ## 📌 Description
@@ -53,3 +51,5 @@ Main Menu:
 
 ## 📌 License
 This project is open-source. Feel free to use and modify it as needed.
+
+## 📌 **⚠️ This project was developed as part of a University Assignment. ⚠️**
