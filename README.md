@@ -49,12 +49,6 @@ Main Menu:
    3. I am ready to leave.
 ```
 
----
-
-## 🤝 Contributions
-Contributions are welcome! Fork the repo, submit issues, or suggest improvements. 🚀  
-
----
 
 ## 📌 License
 This project is open-source. Feel free to use and modify it as needed.
