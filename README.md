@@ -11,6 +11,7 @@ This is a **terminal-based food ordering system** written in C, featuring an int
 ---
 
 ## ✨ Features
+🔹 **ASCII Art UI** – Uses ASCII art to enhance visual presentation and make the terminal interface more appealing 🎨  
 🔹 **Arrow Key Navigation** – Move through the menu using **Up/Down Arrow keys**, confirm with **Enter**  
 🔹 **Real-time Order Processing** – Add, modify, and confirm orders dynamically  
 🔹 **Structured Billing System** – Auto-generates a **bill with token numbers** for tracking  
