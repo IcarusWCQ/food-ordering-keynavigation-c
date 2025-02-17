@@ -1,5 +1,8 @@
 # 🍔 Food Ordering System with Key Navigation in C
 
+## 📌 **⚠️ This project was developed as part of a University Assignment. ⚠️**
+This project was created as part of a university coursework assignment, focusing on **interactive console-based application development** using C. The goal was to implement **user-friendly navigation, structured billing, and payment processing** while enhancing the interface with **ASCII art** for a more engaging experience.
+
 ## 📌 Description
 This is a **terminal-based food ordering system** written in C, featuring an interactive **menu controlled via arrow keys** instead of manual number inputs. The system allows users to:
 
@@ -51,5 +54,3 @@ Main Menu:
 
 ## 📌 License
 This project is open-source. Feel free to use and modify it as needed.
-
-## 📌 **⚠️ This project was developed as part of a University Assignment. ⚠️**
