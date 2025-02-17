@@ -1,5 +1,6 @@
-# This project was developed as part of a **University Assignment**
 # 🍔 Food Ordering System with Key Navigation in C
+
+## 📌 **⚠️ This project was developed as part of a University Assignment. ⚠️**
 
 ## 📌 Description
 This is a **terminal-based food ordering system** written in C, featuring an interactive **menu controlled via arrow keys** instead of manual number inputs. The system allows users to:
